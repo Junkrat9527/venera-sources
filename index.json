@@ -1,0 +1,819 @@
+[
+  {
+    "name": "Komiic",
+    "fileName": "komiic.js",
+    "key": "Komiic",
+    "version": "1.8.3",
+    "description": "多账号登录优化（仅支持主账号收藏夹），双种网络收藏夹支持（喜爱+书柜），支持自填写api和预置api，优化功能触发后的反馈，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "Komiic",
+    "fileName": "komiic_dual.js",
+    "key": "Komiic",
+    "version": "1.0.8"
+  },
+  {
+    "name": "Komiic",
+    "key": "Komiic",
+    "version": "1.0.3",
+    "fileName": "sources/komiic.js",
+    "description": "Komiic：官方 venera-configs 配置。"
+  },
+  {
+    "name": "漫画柜",
+    "key": "ManHuaGui",
+    "version": "1.2.1",
+    "fileName": "sources/manhuagui.js",
+    "description": "漫画柜：官方 venera-configs 配置。"
+  },
+  {
+    "name": "爱漫岛",
+    "fileName": "amdcomic.js",
+    "key": "aiman",
+    "version": "2.3.6",
+    "description": "H"
+  },
+  {
+    "name": "A漫",
+    "fileName": "aman.js",
+    "key": "aman8",
+    "version": "1.0.0",
+    "description": "H"
+  },
+  {
+    "name": "百合会",
+    "fileName": "baihehui.js",
+    "key": "baihehui",
+    "version": "1.0.2",
+    "description": "非个人自制，增加搜索需登录提示，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "香蕉漫画",
+    "fileName": "banana.js",
+    "key": "banana",
+    "version": "1.0.4",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "包子漫画",
+    "fileName": "baozi.js",
+    "key": "baozi",
+    "version": "1.2.1",
+    "description": "官方版本，增加新的图片链接，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "包子漫画",
+    "key": "baozi",
+    "version": "1.1.7",
+    "fileName": "sources/baozi.js",
+    "description": "包子漫画：官方 venera-configs 配置。"
+  },
+  {
+    "name": "哔哩漫画",
+    "fileName": "bilimanga.js",
+    "key": "bilimanga",
+    "version": "1.6.2",
+    "description": "非个人自制，修复搜索功能，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "布卡漫画",
+    "fileName": "bukamh.js",
+    "key": "bukamh",
+    "version": "1.2.9",
+    "description": "非个人自制，增加发现页，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "CCC追漫台",
+    "fileName": "ccc.js",
+    "key": "ccc",
+    "version": "1.0.9",
+    "description": "官方版本，增加漫画详情页链接复制，支持链接解析跳转，修复发现页部分403漫画（没有详情页直接阅读）详情页和阅读问题"
+  },
+  {
+    "name": "CCC追漫台",
+    "key": "ccc",
+    "version": "1.0.1",
+    "fileName": "sources/ccc.js",
+    "description": "CCC追漫台：官方 venera-configs 配置。"
+  },
+  {
+    "name": "カドコミ",
+    "fileName": "comic_walker.js",
+    "key": "comic_walker",
+    "version": "1.3.2",
+    "description": "经ai修复后功能可用，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "カドコミ",
+    "key": "comic_walker",
+    "version": "1.0.0",
+    "fileName": "sources/comic_walker.js",
+    "description": "カドコミ：官方 venera-configs 配置。"
+  },
+  {
+    "name": "comick",
+    "fileName": "comick.js",
+    "key": "comick",
+    "version": "1.3.0",
+    "description": "官方版本，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "comick",
+    "key": "comick",
+    "version": "1.2.0",
+    "fileName": "sources/comick.js",
+    "description": "comick：官方 venera-configs 配置。"
+  },
+  {
+    "name": "拷贝漫画",
+    "fileName": "copy_manga.js",
+    "key": "copy_manga",
+    "version": "2.3.0",
+    "description": "多账号登录优化（仅支持多收藏夹），支持自填写api和预置api，支持测速，优化功能触发后的反馈，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "拷贝漫画",
+    "key": "copy_manga",
+    "version": "1.4.2",
+    "fileName": "sources/copy_manga.js",
+    "description": "拷贝漫画：官方 venera-configs 配置。"
+  },
+  {
+    "name": "拷贝漫画(多账号)",
+    "fileName": "copy_manga_multi_accounts.js",
+    "key": "copy_manga",
+    "version": "1.4.1"
+  },
+  {
+    "name": "次元漫画",
+    "fileName": "cycomic.js",
+    "key": "cycomic",
+    "version": "1.0.3",
+    "description": "非个人自制，根据野蛮漫画重做"
+  },
+  {
+    "name": "动漫屋",
+    "fileName": "dm5.js",
+    "key": "dm5",
+    "version": "7.0.3"
+  },
+  {
+    "name": "动漫屋",
+    "key": "dm5",
+    "version": "0.2.0",
+    "fileName": "sources/dm5.js",
+    "description": "已适配 DM5 系移动端：搜索、详情、章节、packed JS 图片解析。"
+  },
+  {
+    "name": "咚漫",
+    "fileName": "dongman.js",
+    "key": "dongman",
+    "version": "1.0.8",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "动漫啦",
+    "fileName": "dongman_la_fixed_v101.js",
+    "key": "dongman_la",
+    "version": "1.0.1"
+  },
+  {
+    "name": "动漫啦",
+    "fileName": "dongman_la.js",
+    "key": "dongman_la",
+    "version": "1.0.3",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "动漫啦",
+    "key": "dongmanla",
+    "version": "1.0.0",
+    "description": "搜索 / 连载完结分类 / 章节 / 图片",
+    "fileName": "dongmanla.js"
+  },
+  {
+    "name": "咚漫",
+    "fileName": "dongmanmanhua.js",
+    "key": "dongmanmanhua",
+    "version": "1.0.6"
+  },
+  {
+    "name": "ehentai",
+    "fileName": "ehentai.js",
+    "key": "ehentai",
+    "version": "1.2.1"
+  },
+  {
+    "name": "飞翔漫画",
+    "fileName": "ffppt.js",
+    "key": "ffppt",
+    "version": "1.0.2",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "古风漫画",
+    "fileName": "gfmh.js",
+    "key": "gfmh",
+    "version": "1.3.1",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "GoDa漫画",
+    "fileName": "goda.js",
+    "key": "goda",
+    "version": "1.2.4",
+    "description": "官方版本，去除发现页无用的查看更多按键，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "GoDa漫画",
+    "key": "goda",
+    "version": "1.0.1",
+    "fileName": "sources/goda.js",
+    "description": "GoDa漫画：官方 venera-configs 配置。"
+  },
+  {
+    "name": "瓜子漫画",
+    "fileName": "guazi_manhua_v1.1.0.js",
+    "key": "guazimanhua",
+    "version": "1.0.4"
+  },
+  {
+    "name": "瓜子漫画",
+    "fileName": "guazi_manhua.js",
+    "key": "guazimanhua",
+    "version": "1.0.4",
+    "description": "非个人自制"
+  },
+  {
+    "name": "好看漫画",
+    "fileName": "haokan.js",
+    "key": "haokan_txt",
+    "version": "1.0.4",
+    "description": "非个人自制，补全详情页信息，制作发现页、分类页"
+  },
+  {
+    "name": "嗨皮漫画",
+    "fileName": "happy.js",
+    "key": "happy",
+    "version": "1.0.0",
+    "description": "中国大陆及日韩IP无法访问，遇到403可以尝试切换其他地区网络"
+  },
+  {
+    "name": "H-Comic",
+    "fileName": "hcomic.js",
+    "key": "hcomic",
+    "version": "1.0.0"
+  },
+  {
+    "name": "嬉皮漫画",
+    "fileName": "hipmh.js",
+    "key": "hipmh",
+    "version": "1.0.6",
+    "description": "非个人自制，修复链接解析跳转"
+  },
+  {
+    "name": "hitomi.la",
+    "fileName": "hitomi.js",
+    "key": "hitomi",
+    "version": "1.1.2"
+  },
+  {
+    "name": "热辣漫画",
+    "fileName": "hot_manga.js",
+    "key": "hot_manga",
+    "version": "1.0.0"
+  },
+  {
+    "name": "爱看漫",
+    "fileName": "ikmmh.js",
+    "key": "ikmmh",
+    "version": "3.0.1",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "爱看漫",
+    "key": "ikmmh",
+    "version": "1.0.5",
+    "fileName": "sources/ikmmh.js",
+    "description": "爱看漫：官方 venera-configs 配置。"
+  },
+  {
+    "name": "爱看漫",
+    "fileName": "ikm.js",
+    "key": "ikmmh",
+    "version": "2.1.2"
+  },
+  {
+    "name": "爱看漫",
+    "fileName": "ikmmh_v2.js",
+    "key": "ikmmh_v2",
+    "version": "3.0.0"
+  },
+  {
+    "name": "爱飒漫画",
+    "key": "isamanhua",
+    "version": "1.0.0",
+    "description": "跳转看漫；getchapterlist / getchapterinfov2",
+    "fileName": "isamanhua.js"
+  },
+  {
+    "name": "jcomic.net",
+    "fileName": "jcomic.js",
+    "key": "jcomic",
+    "version": "1.0.0"
+  },
+  {
+    "name": "jcomic.net",
+    "key": "jcomic",
+    "version": "1.0.0",
+    "fileName": "sources/jcomic.js",
+    "description": "jcomic.net：官方 venera-configs 配置。"
+  },
+  {
+    "name": "禁漫天堂",
+    "fileName": "jm.js",
+    "key": "jm",
+    "version": "1.4.3",
+    "description": "禁漫天堂漫畫源, 不能使用時請嘗試切換分流"
+  },
+  {
+    "name": "Jmcomic",
+    "fileName": "jmcomic.js",
+    "key": "jmx",
+    "version": "2.1.0",
+    "description": "H"
+  },
+  {
+    "name": "看漫画",
+    "fileName": "kanman.js",
+    "key": "kanman",
+    "version": "2.2.7",
+    "description": "非个人自制，增加分类页、发现页，修复封面显示异常的问题，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "Kavita",
+    "fileName": "kavita.js",
+    "key": "kavita",
+    "version": "1.0.0"
+  },
+  {
+    "name": "Komga",
+    "fileName": "komga.js",
+    "key": "komga",
+    "version": "1.0.0"
+  },
+  {
+    "name": "Komga",
+    "key": "komga",
+    "version": "1.0.0",
+    "fileName": "sources/komga.js",
+    "description": "Komga：官方 venera-configs 配置。"
+  },
+  {
+    "name": "来漫画",
+    "fileName": "laimanhua.js",
+    "key": "laimanhua_split",
+    "version": "1.2.2",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "来漫画（分流）",
+    "fileName": "laimanhua_split_hosts_v1.2.1_configurable.js",
+    "key": "laimanhua_split",
+    "version": "1.2.1"
+  },
+  {
+    "name": "Lanraragi",
+    "fileName": "lanraragi.js",
+    "key": "lanraragi",
+    "version": "1.2.3",
+    "description": "官方版本，增加漫画详情页链接复制，支持链接解析跳转，修复搜索400问题"
+  },
+  {
+    "name": "Lanraragi",
+    "key": "lanraragi",
+    "version": "1.1.0",
+    "fileName": "sources/lanraragi.js",
+    "description": "Lanraragi：官方 venera-configs 配置。"
+  },
+  {
+    "name": "漫本",
+    "fileName": "manben.js",
+    "key": "manben",
+    "version": "1.1.0",
+    "description": "非个人自制，按照dm5重做"
+  },
+  {
+    "name": "51漫画",
+    "fileName": "manga51.js",
+    "key": "manga51",
+    "version": "1.2.0"
+  },
+  {
+    "name": "51漫画",
+    "fileName": "51manga.js",
+    "key": "manga51",
+    "version": "1.3.0",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "MangaDex",
+    "fileName": "manga_dex.js",
+    "key": "manga_dex",
+    "version": "1.9.4",
+    "description": "非个人自制，仅修复翻译问题，支持链接解析跳转"
+  },
+  {
+    "name": "MangaDex",
+    "key": "manga_dex",
+    "version": "1.1.2",
+    "fileName": "sources/manga_dex.js",
+    "description": "Account feature is not supported yet."
+  },
+  {
+    "name": "Mangabz",
+    "key": "mangabz",
+    "version": "1.0.0",
+    "description": "列表 / 搜索 / chapterimage.ashx",
+    "fileName": "mangabz.js"
+  },
+  {
+    "name": "Mangabz",
+    "key": "mangabz",
+    "version": "0.2.0",
+    "fileName": "sources/mangabz.js",
+    "description": "已适配 Mangabz：search?title 搜索、详情、章节、packed JS 图片解析。"
+  },
+  {
+    "name": "漫画柜",
+    "key": "manhuagui",
+    "version": "1.2.2",
+    "description": "列表 / 搜索 / LZString 图片解码",
+    "fileName": "manhuagui.js"
+  },
+  {
+    "name": "漫画皮",
+    "fileName": "manhuapi.js",
+    "key": "manhuapi",
+    "version": "1.4.2",
+    "description": "非个人自制，搜索因官方关闭所以无法正常搜索，重做发现页，新增分类页，漫画详情页优化，增加发现页，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "漫画人",
+    "fileName": "manhuaren.js",
+    "key": "manhuaren",
+    "version": "1.0.2",
+    "description": "官方版本，删除发现页无效的查看更多按键，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "漫画人",
+    "key": "manhuaren",
+    "version": "1.0.0",
+    "fileName": "sources/manhuaren.js",
+    "description": "漫画人：官方 venera-configs 配置。"
+  },
+  {
+    "name": "香蕉漫画",
+    "fileName": "manhuauo_fixed_v2.js",
+    "key": "manhuauo_banana_v2",
+    "version": "1.0.3"
+  },
+  {
+    "name": "漫蛙",
+    "key": "manwa",
+    "version": "1.1.6",
+    "description": "推荐 / 搜索 / 章节 / AES 图片",
+    "fileName": "manwa.js"
+  },
+  {
+    "name": "漫蛙吧",
+    "fileName": "manwaba.js",
+    "key": "manwaba",
+    "version": "1.0.2"
+  },
+  {
+    "name": "漫蛙吧",
+    "fileName": "manwaba_fixed_v113.js",
+    "key": "manwaba",
+    "version": "1.1.3"
+  },
+  {
+    "name": "漫蛙吧",
+    "key": "manwaba",
+    "version": "1.0.3",
+    "fileName": "sources/manwaba.js",
+    "description": "漫蛙吧：官方 venera-configs 配置。"
+  },
+  {
+    "name": "漫网",
+    "fileName": "manwang_fixed_v120.js",
+    "key": "manwang",
+    "version": "1.2.0"
+  },
+  {
+    "name": "漫网",
+    "fileName": "manwang.js",
+    "key": "manwang",
+    "version": "1.3.4",
+    "description": "非个人自制，修复发现页标题显示异常问题，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "漫画1234",
+    "fileName": "mh1234.js",
+    "key": "mh1234",
+    "version": "1.4.3",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "漫画1234",
+    "key": "mh1234",
+    "version": "1.0.1",
+    "fileName": "sources/mh1234.js",
+    "description": "漫画1234：官方 venera-configs 配置。"
+  },
+  {
+    "name": "18漫画",
+    "fileName": "mh18.js",
+    "key": "mh18",
+    "version": "1.0.0"
+  },
+  {
+    "name": "4399漫画网",
+    "fileName": "mh4399.js",
+    "key": "mh4399",
+    "version": "1.0.5",
+    "description": "非个人自制，修复搜索问题，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "漫画kan",
+    "fileName": "mhkan.js",
+    "key": "mhkan",
+    "version": "1.1.7",
+    "description": "非个人自制，重做发现页，新增分类页，优化漫画详情页，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "漫客栈",
+    "fileName": "mkzhan.js",
+    "key": "mkzhan",
+    "version": "1.1.4",
+    "description": "非个人自制，新增分类页，重做发现页，优化漫画详情页显示，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "MOJOIN",
+    "fileName": "mojoin.js",
+    "key": "mojoin",
+    "version": "1.0.8",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "MOJOIN",
+    "fileName": "mojoin_fixed_v107.js",
+    "key": "mojoin_v2",
+    "version": "1.0.7"
+  },
+  {
+    "name": "漫小肆",
+    "fileName": "mxs.js",
+    "key": "mxs",
+    "version": "1.0.0"
+  },
+  {
+    "name": "MYCOMIC",
+    "fileName": "mycomic.js",
+    "key": "mycomic",
+    "version": "1.1.1",
+    "description": "官方版本"
+  },
+  {
+    "name": "nhentai",
+    "fileName": "nhentai.js",
+    "key": "nhentai",
+    "version": "1.1.1"
+  },
+  {
+    "name": "鸟鸟韩漫",
+    "fileName": "nnhm.js",
+    "key": "nnhm",
+    "version": "1.3.0",
+    "description": "H"
+  },
+  {
+    "name": "NoyManga",
+    "fileName": "noymanga.js",
+    "key": "noymanga",
+    "version": "1.1.5"
+  },
+  {
+    "name": "极速漫画",
+    "fileName": "one_kkk.js",
+    "key": "one_kkk",
+    "version": "2.0.0",
+    "description": "非个人自制，删除发现页无效的查看更多按键，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "极速漫画",
+    "key": "one_kkk",
+    "version": "0.2.0",
+    "fileName": "sources/one_kkk.js",
+    "description": "已适配 1kkk/DM5 系移动端：搜索、详情、章节、packed JS 图片解析。"
+  },
+  {
+    "name": "Picacg",
+    "fileName": "picacg.js",
+    "key": "picacg",
+    "version": "1.0.6"
+  },
+  {
+    "name": "Pixiv",
+    "fileName": "pixiv.js",
+    "key": "pixiv",
+    "version": "1.9.0",
+    "description": "支持账号密码、网页、token登录，可屏蔽r18、r18g、ai内容，支持链接解析跳转，已支持多账号，增加系列连载，增加服务端 AI/R18 设置，增加推荐画师缓存，暂时无法攻破直连问题"
+  },
+  {
+    "name": "腾讯动漫（正版）",
+    "fileName": "qq_comic_official.js",
+    "key": "qq_comic_official",
+    "version": "2.0.0",
+    "description": "非个人自制，支持账号登录，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "腾讯动漫（正版）",
+    "fileName": "tencent_comic_official.js",
+    "key": "qq_comic_official_v1",
+    "version": "1.0.3"
+  },
+  {
+    "name": "Rawkuma",
+    "fileName": "rawkuma.js",
+    "key": "rawkuma",
+    "version": "1.1.3",
+    "description": "非个人自制，修复漫画详情页章节标题异常问题，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "热门漫画",
+    "key": "remenmanhua",
+    "version": "1.0.0",
+    "description": "列表 /comic/ + 章节 API 图片",
+    "fileName": "remenmanhua.js"
+  },
+  {
+    "name": "如漫画",
+    "fileName": "rumanhua.js",
+    "key": "rumanhua",
+    "version": "2.4.1",
+    "description": "非个人自制，增加访问地址和图片质量，修复阅读报错问题，修复搜索异常问题，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "如漫画",
+    "fileName": "rumanhua_fixed_v16.js",
+    "key": "rumanhua_fixed_v15",
+    "version": "1.2.8"
+  },
+  {
+    "name": "311漫画",
+    "fileName": "311.js",
+    "key": "s311_com",
+    "version": "1.2.0",
+    "description": "非个人自制，增加发现页，重做分类页，详情页补全信息"
+  },
+  {
+    "name": "SF漫画",
+    "fileName": "sfacg_manhua.js",
+    "key": "sfacg_manhua",
+    "version": "1.0.2",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "少年ジャンプ＋",
+    "fileName": "shonen_jump_plus.js",
+    "key": "shonen_jump_plus",
+    "version": "1.3.1",
+    "description": "经ai修复后功能可用，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "少年ジャンプ＋",
+    "key": "shonen_jump_plus",
+    "version": "1.1.1",
+    "fileName": "sources/shonen_jump_plus.js",
+    "description": "少年ジャンプ＋：官方 venera-configs 配置。"
+  },
+  {
+    "name": "思思漫画",
+    "key": "sisimanhua",
+    "version": "1.0.0",
+    "description": "qTcms base64 图片",
+    "fileName": "sisimanhua.js"
+  },
+  {
+    "name": "腾讯动漫",
+    "fileName": "tencent_comics.js",
+    "key": "tencent_comics",
+    "version": "1.1.3",
+    "url": "https://raw.githubusercontent.com/casthan321/Venera-community-URL/main/tencent_comics.js",
+    "description": "支持真实移动首页推荐区、搜索、分类、QQ 网页登录、账号状态与云收藏；分类显示真实名称并预先求出页数，只读取服务器已授权的网页章节。"
+  },
+  {
+    "name": "图库漫画",
+    "fileName": "tuku_cc.js",
+    "key": "tuku_cc",
+    "version": "1.0.2",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "LINE WEBTOON",
+    "fileName": "webtoons_zh_hant.js",
+    "key": "webtoons_zh_hant",
+    "version": "1.0.1",
+    "description": "非个人自制"
+  },
+  {
+    "name": "W漫画",
+    "fileName": "wmanhua.js",
+    "key": "wmanhua",
+    "version": "1.0.2",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "紳士漫畫",
+    "fileName": "wnacg.js",
+    "key": "wnacg",
+    "version": "1.0.6",
+    "description": "紳士漫畫漫畫源, 不能使用時請嘗試更換URL"
+  },
+  {
+    "name": "X漫画",
+    "fileName": "xmanhua.js",
+    "key": "xmanhua",
+    "version": "1.8.1",
+    "description": "非个人自制，重做发现页，新增分类页，优化漫画详情页，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "yande.re",
+    "fileName": "yandere.js",
+    "key": "yandere",
+    "version": "4.9.3",
+    "description": "个人自制，支持账号密码、网页登录。支持评论，评论区可跳转被评论作品，支持网络收藏夹，支持收藏作品到网络收藏夹，支持分类搜索，支持非精确搜索，支持网页语言切换，可屏蔽s、q内容，支持分类页和发现页，支持链接解析跳转，支持漫画详情页链接复制"
+  },
+  {
+    "name": "野蛮漫画",
+    "fileName": "yemancomic.js",
+    "key": "yemancomic",
+    "version": "1.3.8",
+    "description": "非个人自制，修复发现页1不显示内容的问题，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "野蛮漫画",
+    "key": "yemancomic",
+    "version": "0.1.2",
+    "fileName": "sources/yemancomic.js",
+    "description": "野蛮漫画 yemancomic.com，修复阅读图片 API 分页，避免每话只显示 10 页。"
+  },
+  {
+    "name": "优酷漫画",
+    "fileName": "ykmh.js",
+    "key": "ykmh",
+    "version": "1.1.0",
+    "description": "非个人自制，删除发现页无效的查看更多按键，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "优酷漫画",
+    "key": "ykmh",
+    "version": "1.0.1",
+    "fileName": "sources/ykmh.js",
+    "description": "优酷漫画：官方 venera-configs 配置。"
+  },
+  {
+    "name": "优酷漫画 (修复版)",
+    "fileName": "youku.js",
+    "key": "ykmh",
+    "version": "1.0.6"
+  },
+  {
+    "name": "再漫画",
+    "fileName": "zaimanhua.js",
+    "key": "zaimanhua",
+    "version": "1.2.6",
+    "description": "官方版本，增加末尾章节评论功能，并修复评论重复和无法发送评论，以及发送评论后无法即时刷新的问题，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "再漫画",
+    "key": "zaimanhua",
+    "version": "1.0.3",
+    "fileName": "sources/zaimanhua.js",
+    "description": "再漫画：官方 venera-configs 配置。"
+  },
+  {
+    "name": "zero搬运网",
+    "fileName": "zero.js",
+    "key": "zerobyw",
+    "version": "1.3.0",
+    "description": "增加获取最新链接，增加分类页和发现页的翻页，增加漫画详情页链接复制，支持链接解析跳转"
+  },
+  {
+    "name": "zero搬运网",
+    "fileName": "zerobyw33.js",
+    "key": "zerobyw33",
+    "version": "1.2.0"
+  }
+]
